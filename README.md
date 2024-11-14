@@ -14,4 +14,3 @@ Hi! 👋 I'm Daniel, a Computer Science student at UTFPR-PR, Campo Mourão campu
 - GitHub: [@cDanx](https://github.com/cDanx)
 
 ---
-⭐️ From [cDanx](https://github.com/cDanx)
