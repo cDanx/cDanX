@@ -11,6 +11,6 @@ Hi! 👋 I'm Daniel, a Computer Science student at UTFPR-PR, Campo Mourão campu
 
 ## 🌐 Where to Find Me
 - Portfolio: [www.pereiradasilva.dev](https://www.pereiradasilva.dev)
-- GitHub: [@cDanx](https://github.com/cDanx)
+- Linkedin: [Daniel Silva](https://www.linkedin.com/in/daniel-emanuel-b1037b1a6/)
 
 ---
